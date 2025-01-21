@@ -1,0 +1,155 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-01-21 21:47+0500\n"
+"PO-Revision-Date: 2025-01-21 11:40+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: Mybot/Anonim_bot.py:39 Mybot/Anonim_bot.py:95
+msgid "Chat boshlash 🤗"
+msgstr ""
+
+#: Mybot/Anonim_bot.py:39 Mybot/Anonim_bot.py:96
+msgid "Bot Haqida 🤖"
+msgstr ""
+
+#: Mybot/Anonim_bot.py:39 Mybot/Payment.py:44 Mybot/Payment.py:76
+#: Mybot/multi_Language.py:43 Mybot/multi_Language.py:75
+msgid "🇺🇿/🇷🇺 Til"
+msgstr ""
+
+#: Mybot/Anonim_bot.py:44
+msgid "👥 Siz bu botda odamlar bilan tanish imkonyatiga egasiz !"
+msgstr ""
+
+#: Mybot/Anonim_bot.py:48
+msgid "Siz suhbatdoshni kutyapsiz 🫂, Bir oz kuting 🙏"
+msgstr ""
+
+#: Mybot/Anonim_bot.py:53
+msgid "Siz suhbatdosh bilan bog'landiniz 🥂, Endi yozishni boshlashingiz mumkin 🖊"
+msgstr ""
+
+#: Mybot/Anonim_bot.py:58
+msgid "Chatni tugatish 🛑"
+msgstr ""
+
+#: Mybot/Anonim_bot.py:58
+msgid "Ortga 🔙"
+msgstr ""
+
+#: Mybot/Anonim_bot.py:61
+msgid ""
+"Suhbat tugatildi yangi suhbatni boshlash uchun [Chat boshlash 🤗] "
+"tugmasini bosing !"
+msgstr ""
+
+#: Mybot/Anonim_bot.py:67
+msgid ""
+"Bu botda siz o'zga insonlar bilan muloqot qila olasiz 🤩 shunchaki [Chat "
+"boshlash 🤗] 👈🏻 tugmasini bosing va odamlar bilan muloqot qiling!"
+msgstr ""
+
+#: Mybot/Anonim_bot.py:77
+msgid "Ortga "
+msgstr ""
+
+#: Mybot/Anonim_bot.py:80
+msgid "Maqul tilni tanlang !"
+msgstr ""
+
+#: Mybot/Anonim_bot.py:97
+msgid "🇺🇿/🇺🇸 Til"
+msgstr ""
+
+#: Mybot/Anonim_bot.py:100 Mybot/Payment.py:79 Mybot/multi_Language.py:78
+msgid "Til o'zgardi !"
+msgstr ""
+
+#: Mybot/Payment.py:38 Mybot/Payment.py:70 Mybot/multi_Language.py:37
+#: Mybot/multi_Language.py:69
+msgid "🏢 Kompaniya haqida"
+msgstr ""
+
+#: Mybot/Payment.py:39 Mybot/Payment.py:71 Mybot/multi_Language.py:38
+#: Mybot/multi_Language.py:70
+msgid "📍 Fililallar"
+msgstr ""
+
+#: Mybot/Payment.py:40 Mybot/Payment.py:72 Mybot/multi_Language.py:39
+#: Mybot/multi_Language.py:71
+msgid "💼 Bo'sh ish o'rinlari"
+msgstr ""
+
+#: Mybot/Payment.py:41 Mybot/Payment.py:73 Mybot/multi_Language.py:40
+#: Mybot/multi_Language.py:72
+msgid "Menyu"
+msgstr ""
+
+#: Mybot/Payment.py:42 Mybot/Payment.py:74 Mybot/multi_Language.py:41
+#: Mybot/multi_Language.py:73
+msgid "🗣 Yangiliklar"
+msgstr ""
+
+#: Mybot/Payment.py:43 Mybot/Payment.py:75 Mybot/multi_Language.py:42
+#: Mybot/multi_Language.py:74
+msgid "📞 Kontaktlar/Manzil"
+msgstr ""
+
+#: Mybot/Payment.py:52 Mybot/multi_Language.py:51
+msgid "Ortga"
+msgstr ""
+
+#: Mybot/Payment.py:55 Mybot/multi_Language.py:54
+msgid "Maqul tilni tanlang"
+msgstr ""
+
+#: Mybot/multiLanguage.py:38 Mybot/multiLanguage.py:95
+msgid "About Company 🗄"
+msgstr ""
+
+#: Mybot/multiLanguage.py:39 Mybot/multiLanguage.py:96
+msgid "Job vacancies 💼"
+msgstr ""
+
+#: Mybot/multiLanguage.py:40 Mybot/multiLanguage.py:97
+msgid "Menu"
+msgstr ""
+
+#: Mybot/multiLanguage.py:41 Mybot/multiLanguage.py:98
+msgid "💬 Feedback and suggestions"
+msgstr ""
+
+#: Mybot/multiLanguage.py:42 Mybot/multiLanguage.py:99
+msgid "📞 Contacts/Locations"
+msgstr ""
+
+#: Mybot/multiLanguage.py:43 Mybot/multiLanguage.py:100
+msgid "🇺🇿/🇺🇸 Language"
+msgstr ""
+
+#: Mybot/multiLanguage.py:78
+msgid "Back 🔙"
+msgstr ""
+
+#: Mybot/multiLanguage.py:81
+msgid "Choose your language 🇺🇿/🇺🇸"
+msgstr ""
+
+#: Mybot/multiLanguage.py:103
+msgid "Language changed"
+msgstr ""
+
